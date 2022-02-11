@@ -5,7 +5,7 @@
 
 
 ### Hi there 👋
-My name is Ehtisham UL Hassan. I'm a fresh CS graduate who is passionate about learning modern web and app development technologies.
+My name is Ehtisham UL Hassan. I'm a fresh CS graduate who is passionate about learning modern web and mobile app development technologies.
 
 - 🔭 I’m currently working on a project called Real-time Group Chat using MERN and Web Sockets.
 - 🌱 I’m currently learning React and its ecosystem.
