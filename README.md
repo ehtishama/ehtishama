@@ -1,8 +1,4 @@
 # Ehtisham UL Hassan
-[![Twitter Badge](https://img.shields.io/badge/-@ehtishama-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ehtishamhassan9)](https://twitter.com/ehtishamhassan9) 
-[![Linkedin Badge](https://img.shields.io/badge/-ehtishamhassan9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehtishamhassan9/)](https://www.linkedin.com/in/ehtishamhassan9/) 
-[![Gmail Badge](https://img.shields.io/badge/-ehtishamhassan9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehtishamhassan9@gmail.com)](mailto:ehtishamhassan9@gmail.com)
-
 
 ### Hi there 👋
 My name is Ehtisham UL Hassan. I'm a fresh Computer Science graduate who is passionate about learning modern web and mobile application development technologies.
@@ -13,3 +9,6 @@ My name is Ehtisham UL Hassan. I'm a fresh Computer Science graduate who is pass
 - 🤔 I’m looking for help with Javascript.
 - ⚡ Programming Languages: C++, Java, Javascript, ES6
 
+[![Twitter Badge](https://img.shields.io/badge/-@ehtishama-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ehtishamhassan9)](https://twitter.com/ehtishamhassan9) 
+[![Linkedin Badge](https://img.shields.io/badge/-ehtishamhassan9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehtishamhassan9/)](https://www.linkedin.com/in/ehtishamhassan9/) 
+[![Gmail Badge](https://img.shields.io/badge/-ehtishamhassan9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehtishamhassan9@gmail.com)](mailto:ehtishamhassan9@gmail.com)
