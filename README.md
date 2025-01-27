@@ -1,6 +1,5 @@
 # Ehtisham UL Hassan
 
-### Hi there 👋
 Aspiring Software and AI Engineer based in **United Kingdom**.
 
 I completed my MSc in Artificial Intelligence with distinction from the **Manchester Metropolitan University**. I love creating apps using React Native, FastAPI, and LangChain.
