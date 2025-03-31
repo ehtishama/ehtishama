@@ -7,5 +7,5 @@ I love writing software and fixing bugs.
 - ⚡ Tech Stack: **Python**, **Typescript**, **React Native**, **Expo**, **Pytorch**.
 
 ## 🧑‍🎓
-1. Masters in AI from **Manchester Metropolitan Uni** 🇬🇧.
-2. Bachelors in CS from **Comsats Uni** 🇵🇰. 
+1. MSc Artificial Intelligence from **Manchester Metropolitan Uni** 🇬🇧.
+2. BSc Computer Science from **Comsats Uni** 🇵🇰. 
